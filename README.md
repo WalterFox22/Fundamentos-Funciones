@@ -139,6 +139,9 @@ Factura("Walter Cobacango", 1729195444)
     }
     FacturaOpcional("Walter Cobacango")
 
+![image](https://github.com/user-attachments/assets/af794117-221a-477d-8273-56e78ceaa960)
+
+
 // 10. Funcion Flecha 
 
 const ProductoFybeca = (producto) => console.log(`Se a añadido el producto ${producto} al carrito de compras`)
