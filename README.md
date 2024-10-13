@@ -7,9 +7,8 @@ Todos los elementos vistos en clase fueron implementados con cada parametro brin
 
 
 
+![image](https://github.com/user-attachments/assets/fa6ba196-27d6-43a9-9707-8e0f46d45cc0)
 
-
-![App Screenshot](https://github.com/user-attachments/assets/4a5bc6f4-de65-4848-ac95-f38db4e5a3f0)
 
 // 1. Variables 
 var quantityProduct= 120
@@ -22,7 +21,9 @@ const precios= 42.77;
 const disponibilidad= true;
 console.log(`El producto ${nombreProducto} posee un precio de ${precios} el cual se encuentra ${disponibilidad} en la pagina de Fybeca`);
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![image](https://github.com/user-attachments/assets/3771774a-7eb7-4929-863b-92ea91d86e1f)
+
 
 // 3. Operativos 
 let preciosAntiarrugas=57.35
@@ -61,7 +62,8 @@ while (carritoFybeca>=0) {
 };
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/user-attachments/assets/8052fbc1-c37c-4751-bac7-b12a24b3102b)
+
 
 // 7. LOOPS - BUCLES 
 const mascotas= ['CAT CHOW', 'PEDIGREE', 'NUTRAPRO', 'WHISKAS'];
@@ -110,7 +112,8 @@ ProductoFybeca("Hidraplus");
     }
     console.log(precioFinalItemsFybeca(10.34,20.12,40.20,50,10))
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/user-attachments/assets/204234ba-0f6a-4710-8ac0-316a1c28bc03)
+
 
 // 12. Objetos
 const Bazar_Hogar={
