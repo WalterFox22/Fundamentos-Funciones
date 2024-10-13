@@ -120,6 +120,10 @@ console.log(carritoMascota)
     }
     Cajera()
 
+
+![image](https://github.com/user-attachments/assets/0ef303a8-ca96-4cb9-86ba-b4ff2d8a321c)
+
+
 // 9. Argumentos 
 
 const Factura=function(nombre, cedula){
