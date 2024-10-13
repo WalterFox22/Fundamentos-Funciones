@@ -2,12 +2,14 @@
 # Funciones y Fundamentos
 
 Pagina escogida por el grupo: https://www.fybeca.com/
+
 Todos los elementos vistos en clase fueron implementados con cada parametro brindado.
 
 
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![App Screenshot](https://github.com/user-attachments/assets/4a5bc6f4-de65-4848-ac95-f38db4e5a3f0)
 
 // 1. Variables 
 var quantityProduct= 120
